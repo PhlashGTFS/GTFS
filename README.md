@@ -4,7 +4,7 @@ This is Phlash's General Transit Feed Specification publication for the Philly's
 
 ## Latest release
 
-Latest version: [version v20240517](https://github.com/PhlashGTFS/GTFS/releases/tag/v202405170) updated on May 8th, 2024, effective on May 17th, 2024.
+Latest version: [version v20240827](https://github.com/PhlashGTFS/GTFS/releases/tag/v202408270) updated on May 8th, 2024, effective on May 17th, 2024.
 
 Direct download: [latest](https://github.com/PhlashGTFS/GTFS/releases/latest/download/PHLASH_GTFS.zip)
 
