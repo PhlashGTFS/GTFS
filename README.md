@@ -4,11 +4,11 @@ This is Phlash's General Transit Feed Specification publication for the Philly's
 
 ## Latest release
 
-Latest version: [version v20250402](https://github.com/PhlashGTFS/GTFS/releases/tag/v20250402) updated on April 2, 2025.
+Latest version: [version v20250905](https://github.com/PhlashGTFS/GTFS/releases/tag/v20250905) updated on Sept. 9, 2025.
 
 Direct download: [latest](https://github.com/PhlashGTFS/GTFS/releases/latest/download/PHLASH_GTFS.zip)
 
-Effective until: December 30th, 2025
+Effective until: Dec. 28, 2025 (Calender extended to July 4, 2026 to remain effective).
 
 
 ## Feed
